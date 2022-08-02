@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/962.1dabd627.chunk.js","mappings":"iIAQA,UANe,WACb,OACE","sources":["routes/About.tsx"],"sourcesContent":["import React from 'react'\r\n\r\n const About = () => {\r\n  return (\r\n    <div>About</div>\r\n  )\r\n}\r\n\r\nexport default About"],"names":[],"sourceRoot":""}

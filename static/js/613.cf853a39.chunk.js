@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkuvu_app=self.webpackChunkuvu_app||[]).push([[613],{613:function(u,e,n){n.r(e);n(791);var s=n(184);e.default=function(){return(0,s.jsx)("div",{children:"Users"})}}}]);
+//# sourceMappingURL=613.cf853a39.chunk.js.map
