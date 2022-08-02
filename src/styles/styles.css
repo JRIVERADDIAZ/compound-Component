@@ -1,0 +1,22 @@
+.bg-dark{
+    background-color: #066ed6;
+}
+.text-white{
+    color: rgb(68, 40, 40);
+}
+.custom-image{
+    padding:10px;
+    width:calc(100% - 20px);
+}
+
+.custom-buttons button {  
+    color: rgb(46, 32, 32);
+    border:1px solid rgb(162, 161, 163);
+    border-radius: 10  px;
+}
+
+.shopping-cart{
+    position: fixed;
+    right: 10px;
+    top: 0px;
+}
